@@ -1,0 +1,13 @@
+{
+  "name": "Konya Coin",
+  "symbol": "KONYA",
+  "decimals": 18,
+  "status": "active",
+  "description": "Konya Coin is a community-driven token built for cultural and technological awareness inspired by the heritage of Konya.",
+  "website": "",
+  "social": {
+    "twitter": "",
+    "telegram": "",
+    "discord": ""
+  }
+}
